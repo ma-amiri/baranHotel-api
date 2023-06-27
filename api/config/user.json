@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "username": "johnDoe",
+        "email": "johndoe@example.com",
+        "country": "United States",
+        "img": "https://img.freepik.com/free-icon/user_318-159711.jpg",
+        "city": "New York",
+        "phone": "+1 123-456-7890",
+        "password": "hashedPassword",
+        "isAdmin": true
+      },
+      {
+        "username": "janeSmith",
+        "email": "janesmith@example.com",
+        "country": "Canada",
+        "img": "https://img.freepik.com/free-icon/user_318-159711.jpg",
+        "city": "Toronto",
+        "phone": "+1 987-654-3210",
+        "password": "hashedPassword",
+        "isAdmin": false
+      },
+      {
+        "username": "alexJohnson",
+        "email": "alexjohnson@example.com",
+        "country": "United Kingdom",
+        "img": "https://img.freepik.com/free-icon/user_318-159711.jpg",
+        "city": "London",
+        "phone": "+44 1234-567890",
+        "password": "hashedPassword",
+        "isAdmin": false
+      }
+    ]
+  }
+  

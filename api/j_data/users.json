@@ -1,0 +1,35 @@
+{
+    "users": [
+      {
+        "username": "johnDoe",
+        "email": "johndoe@example.com",
+        "country": "United States",
+        "img": "https://example.com/user/johndoe.jpg",
+        "city": "New York",
+        "phone": "+1 123-456-7890",
+        "password": "hashedPassword",
+        "isAdmin": true
+      },
+      {
+        "username": "janeSmith",
+        "email": "janesmith@example.com",
+        "country": "Canada",
+        "img": "https://example.com/user/janesmith.jpg",
+        "city": "Toronto",
+        "phone": "+1 987-654-3210",
+        "password": "hashedPassword",
+        "isAdmin": false
+      },
+      {
+        "username": "alexJohnson",
+        "email": "alexjohnson@example.com",
+        "country": "United Kingdom",
+        "img": "https://example.com/user/alexjohnson.jpg",
+        "city": "London",
+        "phone": "+44 1234-567890",
+        "password": "hashedPassword",
+        "isAdmin": false
+      }
+    ]
+  }
+  

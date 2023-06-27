@@ -1,0 +1,60 @@
+{
+    "hotels": [
+      {
+        "name": "Hotel A",
+        "type": "Luxury",
+        "city": "New York",
+        "address": "123 Main Street",
+        "distance": "5 miles",
+        "photos": [
+          "https://aremorch.com/wp-content/uploads/2016/09/The-Details-That-Matter-Top-Things-Every-Luxury-Hotel-Room-Should-Have.png",
+          "https://example.com/hotel-a/photo2.jpg"
+        ],
+        "title": "Luxurious Hotel in the Heart of New York",
+        "desc": "Experience the ultimate luxury at our hotel with breathtaking views and world-class amenities.",
+        "rooms": [
+          "Deluxe Room",
+          "Executive Suite",
+          "Penthouse"
+        ],
+        "cheapestPrice": 300
+      },
+      {
+        "name": "Hotel B",
+        "type": "Budget",
+        "city": "London",
+        "address": "456 Elm Street",
+        "distance": "3 miles",
+        "photos": [
+          "https://onthebaymagazine.com/wp-content/uploads/2020/09/D6A5491-OTB.jpg",
+          "https://peterwardhomes.co.uk/wp-content/uploads/2023/01/15.01.23-scaled.jpg"
+        ],
+        "title": "Affordable Accommodation in London",
+        "desc": "Stay comfortably in our budget-friendly hotel, located close to major attractions.",
+        "rooms": [
+          "Standard Room",
+          "Twin Room"
+        ],
+        "cheapestPrice": 100
+      },
+      {
+        "name": "Hotel C",
+        "type": "Resort",
+        "city": "Paris",
+        "address": "789 Oak Street",
+        "distance": "2 miles",
+        "photos": [
+          "https://www.thespruce.com/thmb/Dr7dCdut8bk-bCVCT0J2xuYBsms=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Livingroomdivider-GettyImages-965851966-c7dc2c01e4444b7889903e5e80826a02.jpg",
+          "https://www.thespruce.com/thmb/cxyYohdpF7YgkN0EnZqvUT9Wyyc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kernov-Room-Divider-58dd42b55f9b584683d52b99.jpg"
+        ],
+        "title": "Exquisite Resort Experience in Paris",
+        "desc": "Indulge in luxury and relaxation at our stunning resort in the heart of Paris.",
+        "rooms": [
+          "Deluxe Suite",
+          "Family Villa"
+        ],
+        "cheapestPrice": 400
+      }
+    ]
+  }
+  

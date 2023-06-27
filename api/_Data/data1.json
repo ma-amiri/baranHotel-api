@@ -1,0 +1,108 @@
+[
+    {
+        "name":"SPOT ON 3799 HOTEL BARAN ",
+        "imageurls":["https://www.cvent.com/sites/default/files/image/2021-10/hotel%20room%20with%20beachfront%20view.jpg"],
+        "rentperday":"400",
+        "type":"DELUX",
+        "location":"Zürich",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    },
+    {
+        "name":"OYO ON 234 HOTEL BARAN ",
+        "imageurls":["https://www.tablebed.com/wp-content/uploads/2022/03/Hotellihuoneen-sisustus_.png"],
+        "rentperday":"600",
+        "type":"DELUX",
+        "location":"Zürich",
+        "maxcount":"1",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"SPOT ON 3799 HOTEL BARAN ",
+        "imageurls":["https://media.istockphoto.com/id/1390233984/photo/modern-luxury-bedroom.jpg?s=612x612&w=0&k=20&c=po91poqYoQTbHUpO1LD1HcxCFZVpRG-loAMWZT7YRe4="],
+        "rentperday":"550",
+        "type":"SINGEL",
+        "location":"Zürich",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    },
+    {
+        "name":"SPOT ON 3799 HOTEL BARAN ",
+        "imageurls":["https://www.21oak.com/wp-content/uploads/sites/7/2021/12/dark-moody-modern-master-bedroom.jpg?fit=1024%2C1024&p=1"],
+        "rentperday":"400",
+        "type":"SINGEL",
+        "location":"Bern",
+        "maxcount":"1",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    },
+    {
+        "name":"SPOT ON 399 HOTEL BARAN ",
+        "imageurls":["https://media.istockphoto.com/id/627892060/photo/hotel-room-suite-with-view.jpg?s=612x612&w=0&k=20&c=YBwxnGH3MkOLLpBKCvWAD8F__T-ypznRUJ_N13Zb1cU="],
+        "rentperday":"400",
+        "type":"DELUX",
+        "location":"Genve",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"OYO ON 786 HOTEL BARAN ",
+        "imageurls":["https://www.cvent.com/sites/default/files/image/2021-10/hotel%20room%20with%20beachfront%20view.jpg"],
+        "rentperday":"200",
+        "type":"SINGEL",
+        "location":"Luzern",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"SPOT ON 245 HOTEL BARAN ",
+        "imageurls":[""],
+        "rentperday":"300",
+        "type":"DELUX",
+        "location":"Zürich",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"OYO ON 786 HOTEL BARAN ",
+        "imageurls":["https://www.thespruce.com/thmb/iMt63n8NGCojUETr6-T8oj-5-ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/PAinteriors-7-cafe9c2bd6be4823b9345e591e4f367f.jpg"],
+        "rentperday":"200",
+        "type":"SINGEL",
+        "location":"Luzern",
+        "maxcount":"1",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"SPOT ON 3799 HOTEL BARAN ",
+        "imageurls":["https://assets-global.website-files.com/5c6d6c45eaa55f57c6367749/624b471bdf247131f10ea14f_61d31b8dbff9b500cbd7ed32_types_of_rooms_in_a_5-star_hotel_2_optimized_optimized.jpeg"],
+        "rentperday":"300",
+        "type":"DELUX",
+        "location":"Bern",
+        "maxcount":"3",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"
+    
+    },
+    {
+        "name":"SPOT ON 3799 HOTEL BARAN ",
+        "imageurls":["https://www.rwlasvegas.com/wp-content/uploads/2022/05/crockfords-las-vegas-standard-deluxe-bedroom_1000x880.jpg"],
+        "rentperday":"400",
+        "type":"SINGEL",
+        "location":"Bern",
+        "maxcount":"1",
+        "currentbooking":[],
+        "description":"lorem ims It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here"  
+    }
+    ]

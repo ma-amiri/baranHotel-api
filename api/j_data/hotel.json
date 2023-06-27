@@ -1,0 +1,77 @@
+{
+    "hotels": [
+      {
+        "name": "Hotel A",
+        "type": "Luxury",
+        "city": "Zurich",
+        "address": "123 Main Street",
+        "distance": "5 miles",
+        "photos": [
+          "https://example.com/hotel-a/photo1.jpg",
+          "https://example.com/hotel-a/photo2.jpg"
+        ],
+        "title": "Luxurious Hotel in the Heart of New York",
+        "desc": "Experience the ultimate luxury at our hotel with breathtaking views and world-class amenities.",
+        "rooms": [
+          "Deluxe Room",
+          "Executive Suite",
+          "Penthouse"
+        ],
+        "cheapestPrice": 300
+      },
+      {
+        "name": "Hotel B",
+        "type": "Budget",
+        "city": "bern",
+        "address": "456 Elm Street",
+        "distance": "3 miles",
+        "photos": [
+          "https://example.com/hotel-b/photo1.jpg",
+          "https://example.com/hotel-b/photo2.jpg"
+        ],
+        "title": "Affordable Accommodation in London",
+        "desc": "Stay comfortably in our budget-friendly hotel, located close to major attractions.",
+        "rooms": [
+          "Standard Room",
+          "Twin Room"
+        ],
+        "cheapestPrice": 100
+      },
+      {
+        "name": "Hotel C",
+        "type": "Resort",
+        "city": "Luzern",
+        "address": "789 Oak Street",
+        "distance": "2 miles",
+        "photos": [
+          "https://example.com/hotel-c/photo1.jpg",
+          "https://example.com/hotel-c/photo2.jpg"
+        ],
+        "title": "Exquisite Resort Experience in Paris",
+        "desc": "Indulge in luxury and relaxation at our stunning resort in the heart of Paris.",
+        "rooms": [
+          "Deluxe Suite",
+          "Family Villa"
+        ],
+        "cheapestPrice": 400
+      }, {
+        "name": "Hotel D",
+        "type": "Resort",
+        "city": "Geneve",
+        "address": "789 Oak Street",
+        "distance": "5 miles",
+        "photos": [
+          "https://example.com/hotel-c/photo1.jpg",
+          "https://example.com/hotel-c/photo2.jpg"
+        ],
+        "title": "Exquisite Resort Experience in Paris",
+        "desc": "Indulge in luxury and relaxation at our stunning resort in the heart of Paris.",
+        "rooms": [
+          "Deluxe Suite",
+          "Family Villa"
+        ],
+        "cheapestPrice": 400
+      }
+    ]
+  }
+  
